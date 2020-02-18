@@ -6,6 +6,7 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.stream.Collectors;
 
+//hallo
 /**
  * Diese Klasse representiert einen generischen Graphen mit einer Liste aus
  * Knoten und Kanten.
