@@ -62,6 +62,11 @@ public class Gameboard extends Observable<Gameboard> {
 	 * Connects the nodes of all neighboring tiles facing the tile at given
 	 * coordinates x, y. It is assumed that the tile is placed according to the
 	 * rules.
+	 
+	 
+	 
+	 
+	 
 	 * 
 	 * @param x coordinate
 	 * @param y coordinate
